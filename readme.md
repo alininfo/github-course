@@ -3,17 +3,7 @@
 Arquivo da aula de Git e github para iniciantes
 Primeira alteração no arquivo
 
-
-
-
-
-
-
-
-
-
-
-
+Modificando arquivo para ir ao GitHub
 
 
 
